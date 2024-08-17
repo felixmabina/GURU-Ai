@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "bit.ly/GURU-BOT"
     },
     "MODE": {
       "description": "mode public or private",
@@ -50,7 +50,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
